@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "995374448177",
+    "project_id": "yartumobil",
+    "storage_bucket": "yartumobil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995374448177:android:5e28d1ee8187d86f355f10",
+        "android_client_info": {
+          "package_name": "com.example.yartuyeniproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995374448177-g61bgogqao87v9h5uc5fnvs1ak2ffhkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yartuyeniproje",
+            "certificate_hash": "960b25da9c9131864aadd755ec36071e30c01a43"
+          }
+        },
+        {
+          "client_id": "995374448177-eb6ehgv4g4j7536ptu6rde2eco36k5nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3leF6qYqkmFNtsBxt8X7pPM4kcgTEsj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995374448177-eb6ehgv4g4j7536ptu6rde2eco36k5nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
